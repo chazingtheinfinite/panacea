@@ -9,4 +9,9 @@ It contains the basics functionality expected of a web service such as registrat
 ## Contributions:
 * Minimum viable implementation of a functional web service
 * Implementation of the proof-of-concept neural network
-* Implements 
+
+Implements the following technologies:
+* Latent Dirichlet Allocation for Modelling Unstructured Clinical Notes
+* Stacked Denoising Autoencoders for Dimensionality Reduction
+* Multi-Layer Perceptron to Predict the Likelihood accross all ICD9 Codes
+* Reciprocal Perspective for Post-Processing the Predictions to Improve Prediction Accuracty
